@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kuzak\\source\\repos\\THP_LR4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF5EC28-8E34-42D8-B430-2D9C26E2A6B4}|THP_LR4\\THP_LR4.csproj|c:\\users\\kuzak\\source\\repos\\thp_lr4\\thp_lr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF5EC28-8E34-42D8-B430-2D9C26E2A6B4}|THP_LR4\\THP_LR4.csproj|solutionrelative:thp_lr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kuzak\\source\\repos\\Logic\\Logic\\CalculatePrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatePrice.cs",
+              "DocumentMoniker": "C:\\Users\\kuzak\\source\\repos\\Logic\\Logic\\CalculatePrice.cs",
+              "RelativeDocumentMoniker": "..\\Logic\\Logic\\CalculatePrice.cs",
+              "ToolTip": "C:\\Users\\kuzak\\source\\repos\\Logic\\Logic\\CalculatePrice.cs",
+              "RelativeToolTip": "..\\Logic\\Logic\\CalculatePrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:39:10.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kuzak\\source\\repos\\THP_LR4\\THP_LR4\\Program.cs",
+              "RelativeDocumentMoniker": "THP_LR4\\Program.cs",
+              "ToolTip": "C:\\Users\\kuzak\\source\\repos\\THP_LR4\\THP_LR4\\Program.cs",
+              "RelativeToolTip": "THP_LR4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:08:16.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
